@@ -27,6 +27,14 @@ This project focuses on analyzing financial news headlines and stock market data
 - scripts/ → Python scripts
 - src/ → Source code
 - tests/ → Test files
+## Improvements After Feedback
+
+- Added explicit data cleaning steps
+- Added duplicate handling
+- Added missing value analysis
+- Implemented MACD technical indicator
+- Improved EDA workflow
+- Enhanced notebook organization
 
 ## Author
 Bisrattamrat
