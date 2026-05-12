@@ -51,6 +51,12 @@ Based on the integrated analysis of technical indicators and sentiment:
 ## Repository Contents Update
 - output_correlation.png: Scatter plot visualization of Sentiment vs. Returns.
 - output_price_sma.png: Visualization of price trends with moving averages.
-
+##Improvements After Feedback
+Improved data cleaning (handled missing values, duplicates, and standardized formats)
+Enhanced EDA with clearer and more structured visualizations
+Added technical indicators (SMA, MACD) for better trend analysis
+Improved sentiment analysis and correlation workflow
+Reorganized project structure for better readability
+Strengthened documentation and results interpretation
 ## Author
 Bisrattamrat
